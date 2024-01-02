@@ -1,2 +1,2 @@
 # Fitclub_25-07-23
-Developed a fully responsive statis gym website.
+Developed a fully responsive static gym website.
